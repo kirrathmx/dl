@@ -101,7 +101,7 @@ Proxy:
   server: 0.0.0.0
   port: 443
   cipher: chacha20-ietf-poly1305
-  password: "password"
+  password: "powsita"
   # udp: true
 
 # Shadowsocks + simple-obfs
@@ -137,7 +137,7 @@ Proxy:
 # VMess
 - name: "4"
   type: vmess
-  server: la.powsita.com
+  server: clashmx.powsita.com
   port: 447
   uuid: a3482e88-686a-4a58-8126-99c9df64b7bf
   alterId: 64
