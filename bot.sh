@@ -31,3 +31,4 @@ echo -e " "
 echo -e " "
 echo -e "Bot para Termux"
 echo -e "------------------------------------"
+rm bot.*
