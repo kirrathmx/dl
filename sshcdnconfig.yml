@@ -1,0 +1,13 @@
+# verbose level 0=info, 1=verbose, 2=very verbose
+# VpsPack Modulo
+verbose: 0
+listen:
+  # dropbear
+  - target_host: 127.0.0.1
+    target_port: dropport
+    listen_port: dropcdnport
+
+  # openssh
+  - target_host: 127.0.0.1
+    target_port: sshport
+    listen_port: sshcdn
