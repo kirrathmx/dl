@@ -24,10 +24,10 @@ body, html {height: 100%}
   <div class="w3-display-middle">
     <h1 class="w3-jumbo w3-animate-top">VPSPACK</h1>
     <hr class="w3-border-grey" style="margin:auto;width:40%">
-    <p class="w3-large w3-center">powsitos.info</p>
+    <p class="w3-large w3-center">powermx.org</p>
   </div>
   <div class="w3-display-bottomleft w3-padding-large">
-    PowerMX <a href="http://www.powsitos.info" target="_blank">@PwrMX</a> | <a href="https://t.me/vpnmx" target="_blank">@VpnMX</a>
+    PowerMX <a href="http://www.powermx.org" target="_blank">@PwrMX</a> | <a href="https://t.me/vpnmx" target="_blank">@VpnMX</a>
   </div>
 </div>
 
